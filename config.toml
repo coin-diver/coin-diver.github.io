@@ -1,0 +1,4 @@
+baseURL = 'https://coin-diver.github.io/'
+languageCode = 'ko-kr'
+title = '코인 다이버'
+theme = 'PaperMod'
