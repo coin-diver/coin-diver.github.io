@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://coin-diver.github.io/sitemap.xml
