@@ -1,4 +1,57 @@
 baseURL = 'https://coin-diver.github.io/'
-languageCode = 'ko-kr'
-title = '코인 다이버'
+title = '비트코인, 이더리움, NFT - 코인 다이버'
 theme = 'PaperMod'
+
+languageCode = 'ko-KR'
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+enableEmoji = true
+googleAnalytics = 'G-TJQEZ1NDFE'
+
+[minify]
+disableXML = true
+
+[languages.en]
+languageName = "English"
+weight = 1
+
+[[languages.en.menu.main]]
+name = "Archive"
+url = "archives/"
+weight = 5
+
+[[languages.en.menu.main]]
+name = "Search"
+url = "search/"
+weight = 10
+
+[[languages.en.menu.main]]
+name = "Tags"
+url = "tags/"
+weight = 10
+
+[outputs]
+home = [ "HTML", "RSS", "JSON" ]
+
+[params]
+env = "production"
+description = "비트코인, 이더리움, NFT - 코인 다이버"
+author = "코인 다이버"
+defaultTheme = "auto"
+ShowShareButtons = false
+ShowReadingTime = true
+displayFullLangName = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = false
+ShowCodeCopyButtons = false
+ShowToc = false
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
+[markup.goldmark.renderer]
+unsafe = true
