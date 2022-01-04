@@ -1,4 +1,4 @@
-baseURL = 'https://coin-diver.github.io/'
+baseURL = 'https://diver.trade/'
 title = '비트코인, 이더리움, NFT - 코인 다이버'
 theme = 'PaperMod'
 
@@ -47,6 +47,17 @@ ShowPostNavLinks = true
 ShowBreadCrumbs = false
 ShowCodeCopyButtons = false
 ShowToc = false
+
+[params.homeInfoParams]
+  Title = ""
+  Content = """
+<img src="/images/favicon.ico" alt="코인 다이버" style="border-radius: 50%;" />
+<br/>
+문의: coindiver.eth@gmail.com
+<br/>
+
+투자 판단과 의사결정 그리고 거래에 대한 모든 손익 책임은 투자자 본인에게 있습니다.
+"""
 
 [taxonomies]
 category = "categories"

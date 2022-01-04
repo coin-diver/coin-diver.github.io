@@ -2,12 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://coin-diver.github.io/categories/</loc>
+    <loc>https://diver.trade/posts/</loc>
+    <lastmod>2022-01-04T21:42:21+09:00</lastmod>
   </url><url>
-    <loc>https://coin-diver.github.io/series/</loc>
+    <loc>https://diver.trade/</loc>
+    <lastmod>2022-01-04T21:42:21+09:00</lastmod>
   </url><url>
-    <loc>https://coin-diver.github.io/tags/</loc>
+    <loc>https://diver.trade/posts/%EC%BD%94%EC%9D%B8-%EB%8B%A4%EC%9D%B4%EB%B2%84-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%86%8C%EA%B0%9C/</loc>
+    <lastmod>2022-01-04T21:42:21+09:00</lastmod>
   </url><url>
-    <loc>https://coin-diver.github.io/</loc>
+    <loc>https://diver.trade/archives/</loc>
+  </url><url>
+    <loc>https://diver.trade/categories/</loc>
+  </url><url>
+    <loc>https://diver.trade/search/</loc>
+  </url><url>
+    <loc>https://diver.trade/series/</loc>
+  </url><url>
+    <loc>https://diver.trade/tags/</loc>
   </url>
 </urlset>
