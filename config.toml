@@ -53,6 +53,10 @@ ShowShareButtons = true
 name = "twitter"
 url = "https://twitter.com/diver_eth"
 
+[[params.socialIcons]]
+name = "youtube"
+url = "https://www.youtube.com/channel/UCWcdy4Ug92onlQ9J9jdORlA"
+
 [params.homeInfoParams]
   Title = ""
   Content = """
